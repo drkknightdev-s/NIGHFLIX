@@ -103,7 +103,7 @@ client.on('error', (err) => console.error(`[ERROR] `, err));
 
 // ===============================================================
 // ⚠️ CE TOKEN DOIT ÊTRE UN FAUX COMPTE (LE PROJECTIONNISTE) ⚠️
-const TOKEN_PROJECTIONNISTE = 'MTQ5NTUyMjczMzAyNTUyOTkxNw.Gsz-se.lO6aPgkwWl3a-9uNpd-z8ea8SvnavhOSiInwzo';
+const TOKEN_PROJECTIONNISTE = 'YOU TOKEN';
 // ===============================================================
 
 console.log("[PROJECTEUR] Tentative de connexion à Discord...");
